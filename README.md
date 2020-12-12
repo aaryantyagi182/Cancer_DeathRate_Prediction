@@ -1,6 +1,7 @@
 # Cancer_DeathRate_Prediction
 Our objective for the project was to predict average deaths per year using the cancer dataset
 imported from data.world.
+
 SUMMARY OF THE DATASET
 Our dataset had 3047 rows with 32 columns. The variables summary is mentioned below:
 KEY:
@@ -47,6 +48,7 @@ PctOtherRace: Percent of county residents who identify in a category which is no
 Black, or Asian (b)
 PctMarriedHouseholds: Percent of married households (b)
 BirthRate: Number of live births relative to number of women in county (b)
+
 DESIGN METHODOLOGY
 As a team we processed the data in the following stages:
 1) Gaining some domain knowledge and understanding different variables through the
