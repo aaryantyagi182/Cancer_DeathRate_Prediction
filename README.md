@@ -25,10 +25,8 @@ PctHS18_24: Percent of county residents ages 18-24 highest education attained: h
 diploma (b)
 PctSomeCol18_24: Percent of county residents ages 18-24 highest education attained: some
 college (b)
-PctBachDeg18_24: Percent of county residents ages 18-24 highest education attained:
-bachelor's degree (b)
-PctHS25_Over: Percent of county residents ages 25 and over highest education attained: high
-school diploma (b)
+PctBachDeg18_24: Percent of county residents ages 18-24 highest education attained: bachelor's degree (b)
+PctHS25_Over: Percent of county residents ages 25 and over highest education attained:high school diploma (b)
 PctBachDeg25_Over: Percent of county residents ages 25 and over highest education attained:
 bachelor's degree (b)
 PctEmployed16_Over: Percent of county residents ages 16 and over employed (b)
